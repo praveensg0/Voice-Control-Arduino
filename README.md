@@ -32,18 +32,6 @@ https://github.com/praveensg0/Voice-Control-Arduino/assets/144553645/ba5d9dd0-ea
    pip install pyserial
    pip install SpeechRecognition
 
-
-## Installation and Setup
-
-1. Connect the LED bulb to pin 11 of the Arduino Uno.
-2. Connect the screen display according to the manufacturer's instructions.
-3. Upload the provided Arduino sketch (`light_control.ino`) to the Arduino Uno using the Arduino IDE.
-4. Install the required Python packages by running
-   
-   ```bash
-   pip install pyserial
-   pip install SpeechRecognition
-
 5. Connect the microphone to your computer. You can use a laptop microphone, Bluetooth earphones, headphones, etc.
 6. Connect the Arduino Uno to your computer via USB.
 7. Run the provided Python script (`voice_recognition.py`).
